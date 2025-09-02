@@ -1,0 +1,1 @@
+print(("¡mi primer archivo ejecutado desde la terminal!"))
