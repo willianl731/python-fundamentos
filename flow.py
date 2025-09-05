@@ -58,7 +58,8 @@ assert categorizar_por_edad(19) == "Adolescente"
 assert categorizar_por_edad(25) == "Adulto"
 assert categorizar_por_edad(64) == "Adulto"
 assert categorizar_por_edad(65) == "Adulto Mayor"
-assert categorizar_por_edad(100) == "Adulto Mayor"
+assert categorizar_por_edad(100) == "Adulto Mayor" 
+assert categorizar_por_edad(50) == "Adolescente"
 print("✅ Todas las pruebas de edad pasaron.")
 
 
